@@ -7,7 +7,7 @@ First GitHub Classroom Assignment for APCS
   and open source environments for folks of all skill levels to learn to recognize what git is and 
   what it is not.
   
-  # It is NOT 
+  # git is NOT 
   * A cloud based IDE
   * a private store for your code
   * a money making venture
